@@ -1,27 +1,21 @@
 # TiendaOnline
+Holaaa!!!
+"¡Les presento mi último proyecto, 'Tienda Online'! Una aplicación web desarrollada con Angular 18, que permite la gestión integral de productos y ofrece una experiencia de compra segura y eficiente.
+Características Principales:
+Gestión de Productos:Creación, modificación y eliminación de productos con precios dinámicos.
+Interfaz intuitiva para la administración del inventario.
+Autenticación de Usuarios:Sistema de login seguro mediante correo electrónico y contraseña, implementado con Firebase Authentication.
+Control de acceso a rutas protegidas mediante 'guardians' de Angular.
+Tecnologías Clave:Angular 18: Para el desarrollo del frontend.
+Firebase: Para la autenticación y la persistencia de datos.
+Rutas de Angular: Para la navegación y la gestión de la aplicación.
+Pipes: Para la transformación de datos en la vista.
+Singleton: Para la gestión de estados compartidos.
+Directivas (if): Para la manipulación dinámica del DOM.
+Decorador ViewChild: Para la interacción con elementos del DOM.
+Despliegue:La aplicación está desplegada en producción y disponible para su visualización en: https://lnkd.in/dAtv76wP
+usuario:isaiasruben1987@gmail.com
+password:123456
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Me ayudarian mucho apoyando mis proyectos con un like a la estrella o un fedbaak 
+Gracias :) !!!
